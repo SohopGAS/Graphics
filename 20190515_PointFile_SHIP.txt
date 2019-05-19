@@ -4,10 +4,10 @@
 // Parsing File                         //
 // SHENKAR - Engineering. Design. Art.	//
 //////////////////////////////////////////
-// Point File: Ship.					//
+// Point File: Ship.                    //
 //////////////////////////////////////////
-// Version:		Date:					//
-// 1.0			15/5/2019				//
+// Version:		Date:                     //
+// 1.0			15/5/2019                   //
 //////////////////////////////////////////
 
 #Points(x,y)
