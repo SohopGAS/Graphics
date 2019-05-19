@@ -1,0 +1,26 @@
+//////////////////////////////////////////
+// Course: Computer Graphics - 3504837	//
+// 		Author: Gal Argov Sofer			//
+// 			Parsing File				//
+// SHENKAR - Engineering. Design. Art.	//
+//////////////////////////////////////////
+
+#Lines
+(3,14,5,20)
+(3,14,24,14)
+(5,20,22,20)
+(22,20,24,14)
+(6,15,7,19)
+(8,15,9,19)
+(10,15,11,19)
+(13,2,13,14)
+
+#Circles
+(4,4,R,3)
+(17,16,R,1)
+
+#Cruves
+(13,2,17,3,17,9,13,11)
+(13,2,22,3,22,9,13,11)
+
+We Wish to thank the anonymous reviewer A whose details comments helped us to improve the readability and contents of this paper.
