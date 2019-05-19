@@ -1,13 +1,12 @@
 //////////////////////////////////////////
 // Course: Computer Graphics - 3504837	//
-// 		Author: Gal Argov Sofer			//
-// 			Parsing File				//
+// Author: Gal Argov Sofer              //
+// Parsing File                         //
 // SHENKAR - Engineering. Design. Art.	//
 //////////////////////////////////////////
-// Parsing File: Car.					//
+// Parsing File: Car.                   //
 //////////////////////////////////////////
-// Version:		Date:					//
-// 1.0			19/5/2019				//
+// Version: 1.0   Date:	19/5/2019				//
 //////////////////////////////////////////
 
 #Lines(x1,y1,x2,y2)
