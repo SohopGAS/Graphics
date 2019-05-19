@@ -1,7 +1,7 @@
 //////////////////////////////////////////
 // Course: Computer Graphics - 3504837	//
-// 		Author: Gal Argov Sofer			//
-// 			Parsing File				//
+// Author: Gal Argov Sofer              //
+// Parsing File                         //
 // SHENKAR - Engineering. Design. Art.	//
 //////////////////////////////////////////
 
